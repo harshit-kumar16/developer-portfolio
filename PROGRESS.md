@@ -8,9 +8,13 @@
 - [x] Created a Python project structure with src, tests, and docs.
 - [x] Updated the Python .gitignore template.
 - [x] Documented the CSE103 lab repository.
+- [x] Practised Python Introduction challenges on HackerRank.
+- [x] Solved Two Sum (#1) on LeetCode using Python3.
+- [x] Solved Palindrome Number (#9) on LeetCode using Python3.
 
 ## Upcoming Goals
 
+- [ ] Complete HackerRank Python (Basic) skill certification.
 - [ ] Practise Python programming regularly.
 - [ ] Build and document more projects.
 - [ ] Learn basic data structures and algorithms.
